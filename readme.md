@@ -1,4 +1,5 @@
 # whatswhat manifesto
+Personal favourites for all things. Only add products that you use and adore. 
 
 # forwhat 
 - Productivity
@@ -6,7 +7,6 @@
 - Dev
 - Finance
 - SEO
-- Learn
 
 # Productivity 
 ## Web
@@ -17,27 +17,45 @@
 - <a href="https://cleanmymac.com/">CleanMyMac X</a> - Mac Cleaner
 - <a href="https://www.teamviewer.com/en-us/">TeamViewer</a> - Remote Desktop Software
 - <a href="https://apps.apple.com/us/app/magnet/id441258766?mt=12">Magnet.App</a> - Organize Workspace
+- <a href="https://www.hellosign.com/">HelloSign</a> - Free legally binding signatures
 
 ## Communication
 - <a href="https://slack.com/">Slack</a> - Communication
 - <a href="asana.com">Asana</a> - Project Management 
 - <a href="yesware.com/">Yesware</a> - Email Opener Checker
 - <a href="thehorcrux.com/">Hocrux</a> - Email Backup & Transfer
+- <a href="https://www.textcleanr.com/">TextCleanr</a> - Clear formatting and unknown stuff on text for emails
 
 # Design 
 - <a href="canva.com">Canva</a> - Design tool, When you're too lazy to use photoshop (templates)
 - <a href="cssscanpro.com">CSS Scan Pro</a> - Browser extension for web design
+- Find Design to Code tools
 
 ## Assets
-- <a href="thenounproject.com">The Noun Project</a> - Icons
+- <a href="thenounproject.com">The Noun Project</a> - Icons with customizable color and type
 - <a href="humaaans.com/">Humaaans</a> - Create own flat image humans vector
-- <a href="https://imageoptim.com/mac">ImageOptim Mac</a> - Image Optimizer
+- <a href="https://imageoptim.com/mac">ImageOptim Mac</a> - Image Optimizer desktop application
+- <a href="https://www.dafont.com/">DaFont</a> - Archive of free fonts
+- <a href="https://unsplash.com/">Unsplash</a> - Free stockphotos
 
 ## Inspiration
-- <a href="awwwards.com">Awwwards</a> - Websites and elements
+- <a href="awwwards.com">Awwwards</a> - Websites and elements rankings 
 - <a href="typewolf.com">Typewolf</a> - Trending in typescripts 
 - <a href="dribbble.com/">Dribbble</a> - Design Inspo & Portfolio
 - <a href="behance.net/">Behnace</a> - Design Inspo & Portfolio
+- <a href="https://tympanus.net/codrops/">Codrops</a> - Learning, Inspo & tips
+- <a href="https://codemyui.com/">Codrops</a> - Web Design & UI Inspiration with Code Snippets
+- <a href="https://www.lapa.ninja/">LapaNinja</a> - Landing Page inspos
+- <a href="https://reallygoodemails.com/">ReallyGoodEmails</a> - Email Design 
+
+## Code
+- <a href="https://www.cssmatic.com/box-shadow/">cssmatic</a> - Box Shadow Generator
+- <a href="https://www.colorhexa.com/ffffff">ColorHexa</a> - Get info on colour values 
+- <a href="https://mycolor.space/">Mycolor.space</a> - Color Palettes
+- <a href="http://www.colinkeany.com/blend/">Colinkany</a> - Gradients to CSS
+
+## Learn
+- <a href="https://github.com/goabstract/Awesome-Design-Tools ">Awesome Design Tools</a> - All thinks Design
 
 # Dev 
 ## Environment
@@ -48,9 +66,9 @@
 - <a href="https://aws.amazon.com/cloudfront/">AWS Cloudfront</a> - Content Delivery Network
 - <a href="https://jsfiddle.net/">JS Fiddle</a> - JavaScript Coding Playground
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a> - Cross-platform open-source text editor.
-- <a href="github.com/">Github</a> - Version Control System
+- <a href="github.com/">Github</a> - Version Control System, code in the cloud 
 - <a href="https://www.iterm2.com/">iTerm 2</a> - Terminal, but better
-- <a href="https://setapp.com/apps/snippetslab">SnippetsLab</a> - Storage for code
+- <a href="https://setapp.com/apps/snippetslab">SnippetsLab</a> - Personal Notes for code 
 
 ## Extensions
 - <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a> - Custom color comments for VS Code
@@ -58,6 +76,7 @@
 - <a href="https://sass-lang.com/">SASS</a> - CSS Preprocessor
 
 ## Frontend
+- <a href="?"></a> - HTML Ripper
 - <a href="https://ant.design/">Ant.Design</a> - React UI Design Library and Framework
 - <a href="https://material-ui.com/">Material UI</a> - React UI Framework
 - <a href="firebase.google.com/">Firebase Google</a> - Hosting, Authentication, Storage, Database, Functions
@@ -66,8 +85,17 @@
 
 ## Backend
 
+## Learning
+- <a href="https://github.com/sindresorhus/awesome">Awesome</a> - This list on steroids
+- <a href="https://www.gitlogs.com/">Gitlobs</a> - Trending Repos, specs, reviews
+- <a href="https://openbase.io/">JS Package Finder</a> - Trending Libraries, specs, reviews
+- <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> - Everything Dev
+- <a href="producthunt.com">ProductHunt</a> - Explore new products in tech
+
 # Finance
 - <a href="https://www.m1finance.com/">M1 Finance</a> - Investment Application
+
+## Credit
 
 # SEO 
 
@@ -97,10 +125,11 @@
 - <a href="web.dev/">Web.dev</a> - Guidance and analysis from Web.dev
 - <a href="https://developers.google.com/speed/pagespeed/insights/">Pagespeed by Google</a> - Measures the performance of a page
 
-# Learning
-## Dev Resources
-- <a href="https://github.com/sindresorhus/awesome">Awesome</a> - This list on steroids
-- <a href="https://www.gitlogs.com/">Gitlobs</a> - Trending Repos, specs, reviews
-- <a href="https://openbase.io/">JS Package Finder</a> - Trending Libraries, specs, reviews
-- <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> - Everything Dev
+## Learning 
 
+# To Explore  
+https://avocode.com/ - Design
+https://uirecipes.com/ - UI
+https://versions.sympli.io/ - Design Version Controllers
+https://www.abstract.com/ - Design Version Controllers
+http://folioformac.com/ - Design Version Controllers
