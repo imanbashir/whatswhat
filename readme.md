@@ -54,6 +54,18 @@ Personal favourites for all things. Only add products that you use and adore.
 - <a href="https://mycolor.space/">Mycolor.space</a> - Color Palettes
 - <a href="http://www.colinkeany.com/blend/">Colinkany</a> - Gradients to CSS
 
+## Animations
+- <a href="https://animate.style/">Animate.style</a> - Animations, Scroll Ins
+- <a href="https://www.minimamente.com/project/magic/">Minimamente</a> - Animations
+- <a href="http://bouncejs.com/">Bounce.JS</a> - Effects. Loaders
+- <a href="https://github.com/cssanimation/css-animation-101">Github/CSS Animations</a> - CSS
+- <a href="https://github.com/IanLunn/Hover">Github/ Hovers</a> - Hovers
+- <a href="https://scrollrevealjs.org/">Scroll Reveal</a> - Scroll Reveal Animation
+- <a href="https://popmotion.io/">Popmotion</a> - React Animation Library
+- <a href="https://github.com/AllThingsSmitty/css-protips">Github/ CSS Protips</a> - Animations
+- <a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript">Github/ Don't Need js</a> - Animations
+- <a href="https://github.com/jessepollak/card">Card</a> - Credit Card
+
 ## Learn
 - <a href="https://github.com/goabstract/Awesome-Design-Tools ">Awesome Design Tools</a> - All thinks Design
 
@@ -124,6 +136,9 @@ Personal favourites for all things. Only add products that you use and adore.
 ## Optimization
 - <a href="web.dev/">Web.dev</a> - Guidance and analysis from Web.dev
 - <a href="https://developers.google.com/speed/pagespeed/insights/">Pagespeed by Google</a> - Measures the performance of a page
+
+## PR
+- <a href="www.prunderground.com/">PR Underground</a> - Press Releases
 
 ## Learning 
 
