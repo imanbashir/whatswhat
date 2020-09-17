@@ -82,6 +82,8 @@ Personal favourites for all things. Only add products that you use and adore.
 - <a href="https://www.iterm2.com/">iTerm 2</a> - Terminal, but better
 - <a href="https://setapp.com/apps/snippetslab">SnippetsLab</a> - Personal Notes for code 
 - <a href="https://wakatime.com/">WakaTime</a> - Programming Metrics, track time
+- <a href="https://www.browserstack.com/">BrowserStack</a> - Cross Browser Testing
+
 ## Extensions
 - <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a> - Custom color comments for VS Code
 - <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2">Bracket Pair Colorizer 2</a> - Pair Brackets for VS Code
